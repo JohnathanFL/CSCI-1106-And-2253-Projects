@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/johnathanLeeHW2.dir/main.cpp.o  -o johnathanLeeHW2 -rdynamic 
